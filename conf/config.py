@@ -19,7 +19,7 @@ limitations under the License.
 
 import os
 
-# default language ['en'|'ko'|'ja']
+# default language ['en'|'ja']
 DEFAULT_LANG = 'ja'
 
 # account
