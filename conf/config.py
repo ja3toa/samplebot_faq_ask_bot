@@ -37,8 +37,8 @@ SECRET_KEY_NAME = "private_20200428084813.key"
 LOCAL_ADDRESS = "https://hase-bot01.herokuapp.com/"
 
 # DB config
-DB_HOST = "ec2-52-71-85-210.compute-1.amazonaws.com"
-DB_NAME = "d1m1a23bp4he6b"
-DB_USER = "vpbtuopwrjprin"
+DB_HOST = "ec2-18-206-84-251.compute-1.amazonaws.com"
+DB_NAME = "ddk5ab23pt1b70"
+DB_USER = "mmghqthhuwsdxc"
 DB_PORT = "5432"
-DB_PASSWORD = "23043ca37b445322bc73765d9e690d9974de8fd4278ae5dd430c330e1ab6a34d"
+DB_PASSWORD = "8b3057f3658a026e486e085b4bd4cbef37fcf8d52ba00e8dae951ba0f57adf57"
