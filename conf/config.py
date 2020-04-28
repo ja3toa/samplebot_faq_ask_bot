@@ -27,11 +27,11 @@ ADMIN_ACCOUNT = "admin@hasebuilding"
 DOMAIN_ID = 10049225
 
 # api
-API_ID = "jp1MlnWCiLqXi"
-SERVER_CONSUMER_KEY = "aeAtnLwK8P9crSKexZpA"
+API_ID = "jp1NSHavPbqCv"
+SERVER_CONSUMER_KEY = "ZzJnjJXYd_sQZ0eKN9R5"
 
-SERVER_ID = "cbdd08358ee44b54bf7c6e2ec9e2fc0a"
-SECRET_KEY_NAME = "private_20200427110341.key"
+SERVER_ID = "5c53502cfe3c4ec588c04bf4de20220c"
+SECRET_KEY_NAME = "private_20200428084813.key"
 
 # LOCAL ADDRESS
 LOCAL_ADDRESS = "https://hase-bot01.herokuapp.com/"
